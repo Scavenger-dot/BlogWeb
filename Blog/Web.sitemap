@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="后台管理"  description="">
+    
+    <siteMapNode url="" title="文章" description="" >
+      <siteMapNode url="" title="写文章" description="" />
+    <siteMapNode url="" title="我的文章" description="" />
+    <siteMapNode url="" title="草稿" description="" />
+  </siteMapNode>
+
+
+    <siteMapNode url="" title="外观" description="" >
+      <siteMapNode url="" title="主题" description="" />
+      <siteMapNode url="" title="组件" description="" />
+     
+    </siteMapNode>
+    
+    <siteMapNode url="" title="设置" description="" >
+    
+
+    </siteMapNode>
+    <siteMapNode url="" title="账户" description="" >
+
+
+    </siteMapNode>
+    <siteMapNode url="" title="关于" description="" >
+
+
+    </siteMapNode>
+    <siteMapNode url="" title="联系" description="" >
+
+
+    </siteMapNode>
+  </siteMapNode>
+ 
+</siteMap>

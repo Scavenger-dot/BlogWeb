@@ -1,0 +1,44 @@
+﻿body {
+    margin: 0;
+}
+.userMenu {
+    float: left;
+    width: 15%;
+    list-style: none;
+    background-color: black;
+    height: 950px;
+    margin-top: 0;
+    line-height: 30px;
+}
+li {
+    width: 100px;
+    height: 30px;
+    background-color: aquamarine;
+    margin-top: 20px;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+a {
+    text-decoration: none;
+}
+    a:link {
+        font-size: 20px;
+        color: #000000;
+        text-decoration: none;
+    }
+
+    a:visited {
+        font-size: 20px;
+        color: #000000;
+        text-decoration: none;
+    }
+
+    a:hover {
+        font-size: 20px;
+        color: #000000;
+        text-decoration: none;
+    }
+
